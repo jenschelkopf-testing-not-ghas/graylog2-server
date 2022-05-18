@@ -21,10 +21,6 @@ Follow the [contributors guide](https://www.graylog.org/community) and read [the
 
 Do you want to get paid for developing our open source product? Apply for one of our [jobs](https://www.graylog.org/careers)!
 
-## Staying in Touch
-
-Come chat with us in the [`#graylog` channel on freenode IRC](https://webchat.freenode.net/?channels=%23graylog) or create a topic in our [community discussion forums](https://community.graylog.org/).
-
 ## License
 
 _Graylog_ is released under version 1 of the [Server Side Public License (SSPL)](LICENSE).
